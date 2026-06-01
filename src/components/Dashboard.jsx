@@ -222,7 +222,7 @@ export default function Dashboard() {
                 <div style={{ display: 'flex', alignItems: 'center', gap: 10, background: '#f0fdf4', border: '1px solid #bbf7d0', borderRadius: 8, padding: '10px 14px', marginBottom: 10 }}>
                     <span style={{ fontSize: 18 }}>📄</span>
                     <div style={{ flex: 1 }}>
-                        <p style={{ fontSize: 13, fontWeight: 600, color: '#15803d', margin: 0 }}>Shubham_Jadhav_29_05_2026.pdf</p>
+                        <p style={{ fontSize: 13, fontWeight: 600, color: '#15803d', margin: 0 }}>Shubham_Jadhav_CV.pdf</p>
                         <p style={{ fontSize: 12, color: '#16a34a', margin: 0 }}>Attached from <code>backend/assets/</code> — used automatically if no file is uploaded below</p>
                     </div>
                     <span style={{ color: '#16a34a', fontSize: 18 }}>✓</span>
